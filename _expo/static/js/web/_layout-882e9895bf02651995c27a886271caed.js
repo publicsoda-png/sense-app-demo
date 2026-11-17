@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return u}}),Object.defineProperty(e,"unstable_settings",{enumerable:!0,get:function(){return n}});var t=r(d[0]);const n={initialRouteName:'index'};var u=t.StackLayout},774,[818]);
