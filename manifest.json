@@ -1,0 +1,33 @@
+{
+  "name": "Sense",
+  "short_name": "Sense",
+  "description": "Point, spil og shop fra Sense.",
+  "lang": "da",
+  "start_url": "/sense-app-demo/",
+  "scope": "/sense-app-demo/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FDFBF9",
+  "theme_color": "#208237",
+  "icons": [
+    {
+      "src": "/sense-app-demo/icons/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sense-app-demo/icons/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sense-app-demo/icons/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/sense-app-demo/"
+}
