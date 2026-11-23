@@ -3,7 +3,7 @@
   "short_name": "Sense",
   "description": "Point, spil og shop fra Sense.",
   "lang": "da",
-  "start_url": "/sense-app-demo/",
+  "start_url": "/sense-app-demo/?kilde=app",
   "scope": "/sense-app-demo/",
   "display": "standalone",
   "orientation": "portrait",
